@@ -34,6 +34,6 @@ public class Heroi {
         }
 
         // Exibe a mensagem de ataque
-        System.out.println("O " + this.tipo + " atacou usando " + ataque);
+        System.out.println("O " + this.tipo +" "+ nome+" atacou usando " + ataque);
     }
 }
